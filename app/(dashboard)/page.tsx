@@ -1,8 +1,8 @@
 'use client'
-import { UserButton } from "@clerk/nextjs";
+// import { UserButton } from "@clerk/nextjs";
 
 export default function Home() {
   return (
-    <UserButton />
+    <h1>This is a dashboard page</h1>
   );
 }
