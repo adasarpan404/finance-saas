@@ -1,11 +1,11 @@
 {
-  "id": "5f8ee9ad-2166-4d5e-838f-4e0fac9c9ede",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "298f9276-ea91-4103-85ba-9f50cd9c0a4d",
+  "prevId": "5f8ee9ad-2166-4d5e-838f-4e0fac9c9ede",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
-    "public.accounts1": {
-      "name": "accounts1",
+    "public.accounts": {
+      "name": "accounts",
       "schema": "",
       "columns": {
         "id": {
